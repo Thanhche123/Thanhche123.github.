@@ -1,0 +1,61 @@
+.groupdienthoai {
+    height: 2250px;
+    border-radius: 30px;
+    width: 100%;
+    background: rgba(255, 255, 0, 0.1);
+    border: 1px solid #D9D9D9;
+}
+
+.quangcao {
+    height: 380px;
+    background: rgba(255, 255, 0, 0.1);
+    border: 1px solid #D9D9D9;
+    border-radius: 30px;
+    margin-bottom: 25px;
+    margin-top: 20px;
+}
+
+.quangcaoip_1 {
+    margin-top: 19px;
+    float: left;
+    width: 550px;
+    height: 340px;
+    margin-left: 26px;
+    border-radius: 30px;
+}
+
+.quangcaoip_2 {
+    float: left;
+    width: 290px;
+    height: 280px;
+    margin-top: 40px;
+}
+
+.quangcaoip_3 {
+    float: left;
+    width: 300px;
+    height: 340px;
+    margin-top: 19px;
+    border-radius: 30px;
+}
+
+.quangcaoss_1 {
+    margin-top: 19px;
+    float: left;
+    width: 550px;
+    height: 340px;
+    margin-left: 26px;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    
+}
+
+.quangcaoss_2 {
+    margin-top: 19px;
+    float: left;
+    width: 600px;
+    height: 340px;
+    margin-left: 10px;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+}

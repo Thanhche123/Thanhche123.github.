@@ -1,0 +1,116 @@
+.grouptivi {
+    height: 2340px;
+    border-radius: 30px;
+    width: 100%;
+    background: rgba(255, 255, 0, 0.1);
+    border: 1px solid #D9D9D9;
+}
+
+.quangcao_0 {
+    width: 100%;
+    height: 380px;
+    background: rgba(255, 255, 0, 0.1);
+    border: 1px solid #D9D9D9;
+    border-radius: 30px;
+    margin-bottom: 25px;
+    margin-top: 20px;
+}
+
+.quangcao_1 {
+    margin-top: 3%;
+    float: left;
+    width: 45%;
+    height: 80%;
+    margin-left: 26px;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    
+}
+
+.quangcao_2 {
+    margin-top: 3%;
+    float: left;
+    width: 50%;
+    height: 80%;
+    margin-left: 10px;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.tenlt{
+    padding-top: 15px;
+    text-align: center;
+    margin: 0px;
+    padding-bottom: 10px;
+    font-size: 15px;
+    font-weight: bolder;
+    height: 30px;
+}
+
+.chuthich {
+    padding-top: 30px;
+    text-align: center;
+    margin: 0px;
+    padding-bottom: 5px;
+    font-size: 10px;
+    height: 20px;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.grouppc {
+    height: 2900px;
+    border-radius: 30px;
+    width: 100%;
+    background: rgba(255, 255, 0, 0.1);
+    border: 1px solid #D9D9D9;
+}
+
+.groupdh {
+    height: 4330px;
+    border-radius: 30px;
+    width: 100%;
+    background: rgba(255, 255, 0, 0.1);
+    border: 1px solid #D9D9D9;
+}
+
+.groupdh_dt {
+    display: none;
+    height: auto;
+    border-radius: 30px;
+    width: 100%;
+    background: rgba(255, 255, 0, 0.1);
+    border: 1px solid #D9D9D9;
+}
+
+.grouppk {
+    height: 10750px;
+    border-radius: 30px;
+    width: 100%;
+    background: rgba(255, 255, 0, 0.1);
+    border: 1px solid #D9D9D9;
+}
+
+
+
+@media screen and (max-width: 730px) {
+    .quangcao{
+        height: 100px;
+    }
+    .quangcao_1{
+        width: 10%;
+        height: 10%;
+    }
+    .quangcao_2{
+        width: 5%;
+        height: 10%;
+    } 
+    .groupdh{
+        display: none;
+    }  
+    .groupdh_dt{
+        display: block;
+
+    }
+    
+
+}
